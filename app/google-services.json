@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91753723245",
+    "project_id": "gpsmeasurementapp",
+    "storage_bucket": "gpsmeasurementapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91753723245:android:940a27e059fd1e8e429664",
+        "android_client_info": {
+          "package_name": "com.anirudh.gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91753723245-6c6ho59h5u4t8dua4cq1a54da0hbef6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVnQkPoY9Q7jC8A9_BBB6MKWyjM9ynZ3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91753723245-6c6ho59h5u4t8dua4cq1a54da0hbef6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
